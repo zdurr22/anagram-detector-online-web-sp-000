@@ -12,7 +12,7 @@ class Anagram
       word.split("").sort == @word.split("").sort
     end
   end
-  
 
+binding.pry
 
 end
